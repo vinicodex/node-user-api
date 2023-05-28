@@ -1,5 +1,5 @@
 # node-user-api
-![image](https://github.com/vinicodex/node-user-api/assets/109253692/35437601-93c9-4364-b48e-a27f74099738)
+![image](https://github.com/vinicodex/node-user-api/assets/109253692/ca37405a-4f7d-4fab-9705-f54d24ecf7f4)
 
 # routes
 
