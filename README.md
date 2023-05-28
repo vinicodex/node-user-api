@@ -10,7 +10,11 @@
 <li>DELETE - /api/contacts/id </li>
 
 ## Request body examples
-  
-{name: "john doe", email: "johndoe@gmail.com", phone: "555-555" }
-  
 
+```
+{
+  "name": "John Doe",
+  "email": "johndoe@gmail.com",
+  "phone": "555-555"
+}
+```
